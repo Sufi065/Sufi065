@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages and Tools:
 <div align="center">
-  <img src="https://i.pinimg.com/736x/c4/14/db/c414dbebbd15f8ce3dc6b01749810ec6.jpg" height="40" width="40" />
+  <img src="https://i.pinimg.com/1200x/b6/48/e8/b648e8f1418a4cf4406febc12405bc83.jpg" height="40" width="40" />
   <!-- <img src="https://i.pinimg.com/1200x/5d/09/32/5d0932d4dd17c926806635893260205e.jpg" height="100" width="40" />
   <img src="https://i.pinimg.com/736x/2b/ee/11/2bee11a830bacc5ae9006df56b20c33a.jpg" height="40" width="40" />
   <img src="https://i.pinimg.com/736x/e3/a2/49/e3a2498d2fabe3948c98e784f7f51808.jpg" height="100" width="40" /> -->
