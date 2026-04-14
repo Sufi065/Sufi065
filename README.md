@@ -1,6 +1,6 @@
-# Hola!, I'm Sufi! 👋
+# Hola!, I'm Sufi!!
 
-### 👩‍💻 About Me:
+### About Me:
 - 🔭 I’m currently working on **FullStack Development**
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **C, C++ or MERN Satck**
@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <div align="center">
   <img src="https://i.pinimg.com/736x/34/26/1b/34261bb9ce92735c4c7df5281a067c14.jpg" height="40" width="40" />
   <img src="https://i.pinimg.com/1200x/b6/48/e8/b648e8f1418a4cf4406febc12405bc83.jpg" height="40" width="40" />
