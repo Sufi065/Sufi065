@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **FullStack Development**
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **C, C++ or MERN Satck**
-- 📫 How to reach me: sufiiakhter@gmail.ocm
+- 📫 How to reach me: sufiiakhter@gmail.com
 - ⚡ Pronouns: He/Him
 
 ---
