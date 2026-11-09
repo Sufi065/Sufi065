@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **C, C++ or MERN Satck**
 - 📫 How to reach me: sufiiakhter@gmail.com
-- ⚡ Pronouns: He/Him
 
 ---
 
